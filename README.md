@@ -49,4 +49,4 @@ The handmade greeting card successfully combines art, craft, and basic electroni
 
 **![][image2]**
 
-[image1]:(RESULT.jpeg)
+[RESULT](RESULT.jpeg)
